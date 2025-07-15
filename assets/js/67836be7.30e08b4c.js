@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktemp_fhx_kb=self.webpackChunktemp_fhx_kb||[]).push([[3173],{6468:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/fhx-kb-public/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
