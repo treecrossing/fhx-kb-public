@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunktemp_fhx_kb=self.webpackChunktemp_fhx_kb||[]).push([[1903],{1912:e=>{e.exports=JSON.parse('{"blogBasePath":"/blog","blogTitle":"Blog","authorsListPath":"/blog/authors"}')}}]);
